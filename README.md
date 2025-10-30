@@ -1,6 +1,5 @@
 # CreditCardDefault-KNN
 
-=======
 # Credit Card Default Prediction with KNN 🤖
 
 This project focuses on predicting whether a credit card client will default next month based on their financial and payment history using the **K-Nearest Neighbors (KNN)** algorithm.
